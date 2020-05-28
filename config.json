@@ -1,0 +1,23 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogcode",
+    "prod_uri": "mysql://root:@localhost/blogcode",
+    "fb_url": "http://facebook.com",
+    "tw_url": "http://twitter.com",
+    "gh_url": "http://github.com",
+    "blog_name": "Blog Code",
+    "tag_line": "A Blog by Flask",
+    "gmail_user": "rvish1712@gmail.com",
+    "gmail_password": "password",
+    "about": "hi i am Rahul this is my blog web thank you for visiting",
+    "no_of_post": 2 ,
+    "admin_user": "admin",
+    "admin_password": "password",
+    "sign_css": "css/signin.css",
+    "login_icon": "login_icon.svg",
+    "upload_location": "D:\\Flask web development\\Flaskapp1\\static\\img"
+  }
+
+}
